@@ -8,6 +8,7 @@
 - Python script `Motif_mark.py` which requires two files to be passed as parameters `-f` and `-m`
 - `-f` is in the format of a fasta file `sequences.fasta`
 - `-m` is a required text file of motifs, one per line `motifs.txt`
+- Python script outputs a svg file `motif_plot.svg` containing the visual representation of motifs identified on a gene 
 
 ### Assignment:
 - Requirements:
